@@ -1,4 +1,4 @@
-# Mikita Snitko
+# Mikita
 
 ## Courses and Certificates
 
