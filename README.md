@@ -4,15 +4,18 @@
 
 ### [Smart Home](https://angular-smart-home-three.vercel.app/login)
 
+
 - Angular, TypeScript, RxJs, NgRx
-  [Server for task](https://github.com/pavelrazuvalau/smart-home-json-server)
+
+  [Server for the task](https://github.com/pavelrazuvalau/smart-home-json-server)
+
   The Smart-Home project consisted of three stages and was developed using Angular and reactive RxJS. NgRx was responsible for state management. The project uses reactive technologies and approaches.
-  [check code](https://github.com/Snitkon/angular-smart-home/)
+  [check my code](https://github.com/Snitkon/angular-smart-home/)
 
 ### [Coffee House](https://rsschool-coffee-house-snitkon.netlify.app)
 
 - A two-page presentation website for a coffee shop featuring a slider for promotions and a menu displayed with tabbed categories. Each menu item opens in a detailed modal window, allowing users to view sizes, options, and modifiers. The site is fully responsive, offering a seamless experience across all devices. Includes Husky for git hooks and CI/CD via GitHub Actions to ensure seamless automated deployment.
-  [check code](https://github.com/Snitkon/rsschool-coffee-house)
+  [check my code](https://github.com/Snitkon/rsschool-coffee-house)
 
 ### [Shelter](https://snitkon.github.io/shelter/pages/main/index.html)
 
@@ -39,7 +42,7 @@
 - A Tic Tac Toe game played against the computer, developed with HTML, CSS, and JavaScript. The game highlights winning combinations and utilizes local storage to save results.
   [check my code](https://github.com/rolling-scopes-school/snitkon-JSFEPRESCHOOL/tree/js30-tic-tac-toe)
 
-  ### [Virtual Keyboard](https://snitkon.github.io/RSS-Virtual-Keyboard/Virtual-Keyboard/)
+### [Virtual Keyboard](https://snitkon.github.io/RSS-Virtual-Keyboard/Virtual-Keyboard/)
 
 - A virtual keyboard application built with Vanilla JavaScript, featuring dynamic DOM generation and full synchronization with physical keyboard inputs.
   [check my code](https://github.com/Snitkon/RSS-Virtual-Keyboard)
