@@ -25,7 +25,7 @@
 ### [Book Shop](https://snitkon.github.io/book-shop/pages/index.html)
 
 - A specialized two-page e-commerce platform for a Book Shop, built with a focus on modular JavaScript. The application features a dynamic product catalog fetched via REST API, an interactive shopping cart with real-time price calculations, and a structured checkout flow. Developed as part of the Rolling Scopes School curriculum to master state management and responsive UI components.
-  [check my code](https://github.com/dzichonka/christmas-shop)
+  [check my code](https://github.com/Snitkon/book-shop)
 
 ### [Audio Player](https://rolling-scopes-school.github.io/snitkon-JSFEPRESCHOOL/JS%20audio-player/)
 
