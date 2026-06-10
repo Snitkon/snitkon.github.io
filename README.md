@@ -2,12 +2,30 @@
 
 ## PROJECTS
 
-### [Smart Home](https://angular-smart-home-three.vercel.app/login)
+### [Film Collection](https://angular-film-collection-snitkon.vercel.app/)
+  
+- The Film Collection project is a small Angular application for browsing and managing a list of films using mock data. It was built to practice core Angular features like components, routing, pipes, directives, and Signals without using RxJS.
+The app includes a film catalog, search filtering, favorites, and a film details page with navigation between routes. All state management is implemented using Angular Signals, and the project focuses on understanding modern Angular concepts and clean architecture.  
+  [check my code](https://github.com/Snitkon/angular-film-collection)
 
+### [CV Generator](https://angular-final-project-rs.vercel.app/)
+
+- Angular 21, TypeScript, RxJs, NgRx, Firebase (Authentication, Firestore, Hosting), GitHub Projects (Kanban board)
+  
+  The CV Generator project is a modern web application for creating and managing professional CVs. It was developed as a team project.  
+  We used Angular 21 with a standalone architecture. For state management, we used Angular Signals for UI state and RxJS for working with async data like Firebase services.  
+  For the backend, we used Firebase, including Firebase Authentication for login and Firestore Database to store user profiles and CV data. The application is deployed using Firebase Hosting.  
+  The project focuses on performance and modern Angular features. We used lazy loading, OnPush change detection, and defer loading to improve speed and user experience.  
+  Team work was organized using GitHub Projects (Kanban / Table board). We tracked tasks, planned work, and shared responsibilities between team members. We also used Git for version control and code collaboration.  
+  Overall, the project is fast, modern, and easy to use, with a clear separation between UI state (Signals) and async data (RxJS).  
+  [check my code](https://github.com/Austriacki-Pingwin/angular-final-project/pull/68)
+
+### [Smart Home](https://angular-smart-home-three.vercel.app/)
 
 - Angular, TypeScript, RxJs, NgRx
 
-  [Server for the task](https://github.com/pavelrazuvalau/smart-home-json-server)
+  [Server for the task](https://github.com/pavelrazuvalau/smart-home-json-server) (Start the local network server)  
+  [Login credentials](https://github.com/pavelrazuvalau/smart-home-json-server/blob/main/services/core/user/user.db.json)
 
   The Smart-Home project consisted of three stages and was developed using Angular and reactive RxJS. NgRx was responsible for state management. The project uses reactive technologies and approaches.
   [check my code](https://github.com/Snitkon/angular-smart-home/)
