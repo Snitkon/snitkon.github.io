@@ -25,3 +25,9 @@ Hands-on course focused on practical development. Build real projects, including
 - [certificate](JS-FE_Pre-School_(JavaScript).pdf)
 
 ---
+
+### [Udemy - Angular](https://www.udemy.com/share/101WgA/)
+
+Angular, including standalone components, Signals, routing, HTTP requests, authentication, and forms. I also improved my TypeScript skills and learned how to build modern, responsive, and scalable web applications.
+
+- [certificate](Udemy_(Angular).png)
