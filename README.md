@@ -2,6 +2,11 @@
 
 ## PROJECTS
 
+### [RX-Beat (inspired by Spotify)](https://rx-beat.vercel.app/)
+
+- A collaborative educational project built with Angular 21 as part of the RS School Angular course. The application is inspired by Spotify and focuses on modern frontend development, teamwork, and best practices.
+  [check my code](https://github.com/Snitkon/RX-Beat)
+
 ### [Film Collection](https://angular-film-collection-snitkon.vercel.app/)
   
 - The Film Collection project is a small Angular application for browsing and managing a list of films using mock data. It was built to practice core Angular features like components, routing, pipes, directives, and Signals without using RxJS.
